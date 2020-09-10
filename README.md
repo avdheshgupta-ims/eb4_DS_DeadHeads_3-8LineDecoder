@@ -1,55 +1,57 @@
 ## Introduction (Round 0)
 
-Remove this line before submitting : To Refer a filled sample of this template visit here : <br> http://vlabs.iitb.ac.in/gitlab/Community-Docs/New-Lab-development/Samples
+
 <br>
 
-<b>Discipline | <b>Type Name of Discpline  to which lab belongs
+<b>Discipline | <b>Computer Science
 :--|:--|
-<b> Lab | <b> Type name of the lab
-<b> Experiment|     <b> 1. (enter the correct experiment number) Name of the experiment
+<b> Lab | <b> Computer Organization (KCS-352)
+<b> Experiment|     <b> 1.	Implementing 3-8 line Decoder.
 
 <h5> About the Lab (Objective) : </h5>
 
-Type here: berif description of the lab
+After these Experiments you will be able to:
+    1.	A good understanding of Decoder. 
+
 
 <h5> About the Experiment : </h5>
 
-Type here: berif description of this experiment
+Decoder. In digital electronics, a decoder can take the form of a multiple-input, multiple-output logic circuit that converts coded inputs into coded outputs, where the input and output codes are different e.g. n-to-2n , binary-coded decimal decoders. 
 
 <h5> Target Audience : </h5>
 
-Type here: the target audience
+  Learners and Judges.  
 
 <h5> Course Alignment : </h5>
 
-Type here: courses aligned
+COA
 
 <h5> Universities Mapped : </h5>
 
-Type here: universities mapped
+IMS Engineering College
 
-<b>Name of Developer | <b> (of professor only (no prefix Prof/Mr/MRS) - - - - - -
+<b>Name of Developer | <b> Avdhesh Gupta
 :--|:--|
-<b> Institute | <b> My Institute name
-<b> Email id|     <b> abc@example.com
-<b> Department | Name of the department in which you work
+<b> Institute | <b> IMS Engineering College
+<b> Email id|     <b> avvipersonal@gmail.com
+<b> Department | Information Technology (IT)
 
 #### Mentor Details
 
-<b>Mentored by | <b> (of professor only (no prefix Prof/Mr/MRS) - - - - - -
+<b>Mentored by | <b> Sangeeta Arora
 :--|:--|
-<b> Institute | <b> Institute name
-<b> Email id|     <b> abc@example.com
-<b> Department | Name of the department
+<b> Institute | <b> KIET
+<b> Email id|     <b> sangeeta.arora@kiet.edu
+<b> Department | Computer Applications
 
 #### Contributors List
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | Full name | Faculty | Dept Name | Name of the Insitute, City | abc@example.com
-2 | Full name | Student | Dept Name | Name of the Insitute, City |abc@example.com
-3 | Full name | Student | Dept Name | Name of the Insitute, City |abc@example.com
-4 | Full name | Student | Dept Name | Name of the Insitute, City |abc@example.com
+1 | Avdhesh Gupta | Faculty | Information Technology (IT) | IMS Engineering College, Ghaziabad| avvipersonal@gmail.com
+2 | Abhishray Gangwar | Student | Information Technology (IT) | IMS Engineering College, Ghaziabad| abhigang040101@gmail.com
+3 | Chandan Kumar Singh | Student | Information Technology (IT) | IMS Engineering College, Ghaziabad| krishnanandan10r@gmail.com
+4 | Devanshi Srivastava | Student | Information Technology (IT) | IMS Engineering College, Ghaziabad| dev6sri@gmail.com
 
 
 <br>
