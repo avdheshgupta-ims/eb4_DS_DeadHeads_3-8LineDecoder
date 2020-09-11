@@ -5,7 +5,7 @@
 
 <b>Discipline | <b>COMPUTER SCIENCE & ENGINEERING/INFORMATION TECHNOLOGY
 :--|:--|
-<b> Lab | <b> Computer Organization And Architecture Lab (KCS-352)
+<b> Lab | <b> Computer Organization and Architecture Lab (KCS-352)
 <b> Experiment|     <b>Implementing 3-8 line Decoder.
 
 <h5> About the Lab (Objective) : </h5>
@@ -24,7 +24,7 @@ Faculty and Students of 2nd year CSE and IT Branch
 
 <h5> Course Alignment : </h5>
 
-B-Tech
+B. Tech.
 
 <h5> Universities Mapped : </h5>
 
