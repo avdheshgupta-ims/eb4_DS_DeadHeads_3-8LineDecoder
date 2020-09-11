@@ -10,7 +10,7 @@
 
 <h5> About the Lab (Objective) : </h5>
 
-This Lab is related to CSE and IT Branch. In this lab the user will learn circuit designing and working of varout electronics circuits.
+This Lab is related to CSE and IT Branch. In this lab the user will learn circuit designing and working of various electronics circuits.
 
 
 <h5> About the Experiment : </h5>
