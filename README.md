@@ -48,9 +48,9 @@ Dr. APJ Abdul Kalam Technical University, Lucknow
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | Abhishray Gangwar | Student | Information Technology (IT) | IMS Engineering College, Ghaziabad| abhigang040101@gmail.com
-2 | Chandan Kumar Singh | Student | Information Technology (IT) | IMS Engineering College, Ghaziabad| krishnanandan10r@gmail.com
-3 | Devanshi Srivastava | Student | Information Technology (IT) | IMS Engineering College, Ghaziabad| dev6sri@gmail.com
+1 | Abhishray Gangwar | Student | Information Technology (IT) | IMS Engineering College| abhigang040101@gmail.com
+2 | Chandan Kumar Singh | Student | Information Technology (IT) | IMS Engineering College| krishnanandan10r@gmail.com
+3 | Devanshi Srivastava | Student | Information Technology (IT) | IMS Engineering College| dev6sri@gmail.com
 
 
 <br>
