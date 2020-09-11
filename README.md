@@ -15,8 +15,7 @@ This Lab is related to CSE and IT Branch. In this lab we can learn circuit desig
 
 <h5> About the Experiment : </h5>
 
-In this experiment
-We will create circuit and Implement in real life. We will note down the observations and readings in the form of Truth Table and Logic Gates. We will see the simulations in the experiment with taking numerous inputs.
+In this experiment, we will create circuit and Implement in real life. We will note down the observations and readings in the form of Truth Table and Logic Gates. We will see the simulations in the experiment with taking numerous inputs.
 
 <h5> Target Audience : </h5>
 
