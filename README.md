@@ -5,7 +5,7 @@
 
 <b>Discipline | <b>COMPUTER SCIENCE & ENGINEERING/INFORMATION TECHNOLOGY
 :--|:--|
-<b> Lab | <b> Computer Organization and Architecture Lab (KCS-352)
+<b> Lab | <b> Computer Organization and Architecture Lab
 <b> Experiment|     <b>Implementing 3-8 line Decoder.
 
 <h5> About the Lab (Objective) : </h5>
