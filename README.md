@@ -10,12 +10,12 @@
 
 <h5> About the Lab (Objective) : </h5>
 
-This Lab is related to CSE and IT Branch. In this lab we can learn circuit designing and simulation of 3-8 Line Decoder.
+This Lab is related to CSE and IT Branch. In this lab the user will learn circuit designing and working simulation of 3-8 Line Decoder.
 
 
 <h5> About the Experiment : </h5>
 
-In this experiment, we will create circuit and Implement in real life. We will note down the observations and readings in the form of Truth Table and Logic Gates. We will see the simulations in the experiment with taking numerous inputs.
+Thsi experiment is about to design combinational circuit with the help of Logic Gates. This experiment is about to take n coded input in the form of n input and provide 2^n output.
 
 <h5> Target Audience : </h5>
 
