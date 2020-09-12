@@ -68,18 +68,10 @@ Read the theory and comprehend the concepts related to the experiment. [LO1, LO2
 
 Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the simulator | Assessment Questions as per LO & Task
 :--|:--|:--|:-:
-1.|User will be able to apply to their learning of digital circuit| Designing a circuit with Basic gates and identify the output at each stage| Decoder is constructed from ________________
-a) Inverters
-b) AND gates
-<b>c) Inverters and AND gates</b>
-d) None of the mentioned
+1.|User will be able to apply to their learning of digital circuit| Designing a circuit with Basic gates and identify the output at each stage| Decoder is constructed from________________
+
 
 2.| User will be able to design combinational circuit of Decoder| Design the full circuit with 3 input and 8 output| A decoder converts n inputs to __________ outputs.
-a) n
-b) n^2
-<b>c) 2^n</b>
-d) n^n
-
 
 
 You can add more question. All questions may not be as MCQ
