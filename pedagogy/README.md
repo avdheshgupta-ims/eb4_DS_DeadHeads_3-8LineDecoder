@@ -68,7 +68,7 @@ Read the theory and comprehend the concepts related to the experiment. [LO1, LO2
 
 Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the simulator | Assessment Questions as per LO & Task
 :--|:--|:--|:-:
-1.| User will be able to apply to their learning of digital circuit | Designing a circuit with Basic gates and identify the output at each stage| Decoder is constructed from ____________
+1.| User will be able to apply to their learning of digital circuit | Designing a circuit with Basic gates and identify the output at each stage| Decoder is constructed from ____________<br>Ans:Inverters and AND gates.
 2.| User will be able to design combinational circuit of Decoder| Design the full circuit with 3 input and 8 output | A decoder converts n inputs to __________ outputs.<br>a)n<br>b)n^2<br>c)<u>2^n<br>d)n^n<br>Ans: C
 3.| User will be able to evaluate the truth table of 3 x 8 Decoder| Check the output based on 3 bits input|Which of the following can be represented for decoder?<br>a)Sequential circuit<br>b)<u>Combinational circuit<br>c)Logical circuit<br>d)None of the mentioned<br>Ans:B
 
@@ -87,10 +87,14 @@ Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the s
 
 #### 4. Simulator Interactions:
 <br>
+1. Simulator accept 3 bits inputs from users
+2. Pass this 3-bits input to designed combinational circuit and check 
+3. Output will vary with different combinations of 3 bits input
+<br>
 
 Sr.No | What Students will do? |	What Simulator will do?	| Purpose of the task
 :--|:--|:--|:--:
-1.| Activity description <br> next line <br> next line | Click on the ‘Activity description <br> next line  '  | Describe the purpose in detail.
-2.| Activity description <br> next line <br> next line | Click on the ‘Activity description <br> next line  '  | Describe the purpose in detail.
-3.| Activity description <br> next line <br> next line | Click on the ‘Activity description <br> next line  '  | Describe the purpose in detail.
-4.| Activity description <br> next line <br> next line | Click on the ‘Activity description <br> next line  '  | Describe the purpose in detail.
+1.| Design a visual display of logic gates used in Decoder| Start the simulator and click on start:<br>Show the gates used in designing Decoder| To show the Logic gates used in designing 3x8 Decoder
+2.| Design the Decoder step wise | Click on next:<br>It will show step wise designing of Decoder | To show how inputs are connected and how the circuit will design.
+3.| Check the output based on 3 bits input|Click on next:<br>Show the output based on various inputs.<br>The user can also give input and Decoder will show the output and verify the truth table | Show and verify the truth table of 3x8 Decoder
+
