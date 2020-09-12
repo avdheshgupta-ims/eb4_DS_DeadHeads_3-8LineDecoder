@@ -1,7 +1,7 @@
 ## Pedagogy (Round 1)
 <p align="center">
 
-<b> Experiment 3-8 line Decoder  <a name="top"></a> <br>
+<b> Experiment 3-8 line Decoder  <a name="top"></a> <br></b>
 </p>
 
 <b>Discipline | <b>Computer Science
@@ -66,8 +66,8 @@ Read the theory and comprehend the concepts related to the experiment. [LO1, LO2
 Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the simulator | Assessment Questions as per LO & Task
 :--|:--|:--|:-:
 1.| User will be able to apply to their learning of digital circuit | Designing a circuit with Basic gates and identify the output at each stage| Decoder is constructed from ____________<br>Ans:Inverters and AND gates.
-2.| User will be able to design combinational circuit of Decoder| Design the full circuit with 3 input and 8 output | A decoder converts n inputs to __________ outputs.<br>a)n<br>b)n^2<br>c)<u>2^n<br>d)n^n<br>Ans: C
-3.| User will be able to evaluate the truth table of 3 x 8 Decoder| Check the output based on 3 bits input|Which of the following can be represented for decoder?<br>a)Sequential circuit<br>b)<u>Combinational circuit<br>c)Logical circuit<br>d)None of the mentioned<br>Ans:B
+2.| User will be able to design combinational circuit of Decoder| Design the full circuit with 3 input and 8 output | A decoder converts n inputs to __________ outputs.<br>a)n<br>b)n^2<br>c)<b>2^n</b><br>d)n^n<br>
+3.| User will be able to evaluate the truth table of 3 x 8 Decoder| Check the output based on 3 bits input|Which of the following can be represented for decoder?<br>a)Sequential circuit<br>b)<b>Combinational circuit</b><br>c)Logical circuit<br>d)None of the mentioned<br>
 
 
 <br>
