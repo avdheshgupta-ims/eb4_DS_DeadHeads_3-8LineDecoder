@@ -7,10 +7,10 @@ Remove this line before submitting : To Refer a filled sample of this template v
 <b> Experiment ABCDEF Lab  <a name="top"></a> <br>
 </p>
 
-<b>Discipline | <b>Type Name of Discipline  to which lab belongs
+<b>Discipline | <b>Computer Science
 :--|:--|
-<b> Lab | <b> Type name of the lab
-<b> Experiment|     <b> 1. Name of the experiment
+<b> Lab | <b> Computer Organization (KCS-352)
+<b> Experiment|     <b> Implementing 3-8 line Decoder.
 
 
 <h4> [1. Focus Area](#LO)
@@ -21,17 +21,16 @@ Remove this line before submitting : To Refer a filled sample of this template v
 <hr>
 
 <a name="LO"></a>
-#### 1. Focus Area : Name of the Focus area as per handout
+#### 1. Focus Area : Experimentation and Modeling
 
 #### 2. Learning Objectives and Cognitive Level
 
 
 Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 :--|:--|:--|:-:
-1.| User will be able to: <br>Next line from here <br> Next line here. | [Type as per the document](http://vlabs.iitb.ac.in/vlabs-dev/document.php) | [Type as per the document](http://vlabs.iitb.ac.in/vlabs-dev/document.php)
-2.| User will be able to: <br>Next line from here <br> Next line here. | [Type as per the document](http://vlabs.iitb.ac.in/vlabs-dev/document.php) | [Type as per the document](http://vlabs.iitb.ac.in/vlabs-dev/document.php)
-3.| User will be able to: <br>Next line from here <br> Next line here. | [Type as per the document](http://vlabs.iitb.ac.in/vlabs-dev/document.php) | [Type as per the document](http://vlabs.iitb.ac.in/vlabs-dev/document.php)
-4.| User will be able to: <br>Next line from here <br> Next line here. | [Type as per the document](http://vlabs.iitb.ac.in/vlabs-dev/document.php) | [Type as per the document](http://vlabs.iitb.ac.in/vlabs-dev/document.php)
+1.| User will be able to apply to their learning of digital circuit |Applying| Apply
+2.| User will be able to design combinational circuit of Decoder | Create| Create
+3.| User will be able to evaluate the truth table of 3 x 8 Decoder | Evaluate |Evaluate
 
 
 <br/>
@@ -43,12 +42,12 @@ Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 
 <a name="IS"></a>
 #### 3. Instructional Strategy
-###### Name of Instructional Strategy  :    <u> As per Handout
-###### Assessment Method: As per handout
+###### Name of Instructional Strategy  :    <u>  Expository
+###### Assessment Method: Formative Assessments
 
-<u> <b>Description: </b> of how you are going to implement the above Instructional Strategy in your Simulator: </u>
+<u> <b>Description: </b> </u>
 <br>
- Brief description as per handout
+Student has to follow instructions from digital circuit design (combinational circuit) and then compare the results obtained with predetermined outcomes already known to us.
 
 <br/>
 <div align="right">
