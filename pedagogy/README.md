@@ -50,6 +50,10 @@ Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 Student has to follow instructions from digital circuit design (combinational circuit) and then compare the results obtained with predetermined outcomes already known to us.
 
 <br/>
+<u> <b>Simulator: </b> </u>
+<br>
+n coded input (3 input) and then passing the combination of 3 bits to designed circuit gives 2n output.
+<br/>
 <div align="right">
     <b><a href="#top">↥ back to top</a></b>
 </div>
@@ -64,8 +68,18 @@ Read the theory and comprehend the concepts related to the experiment. [LO1, LO2
 
 Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the simulator | Assessment Questions as per LO & Task
 :--|:--|:--|:-:
-1.| LO's as described in section 1 <br> Next line here. | Type the task that <br> student will perform | Type the question that will assess what student has learnt
-2.| LO's as described in section 1 <br> Next line here. | Type the task that <br> student will perform | 1 Question in detail <br> A. Option <br> B. Option <br> C. Option <br> <b> D. Option </b> <br> (mark correct option as bold text)
+1.|User will be able to apply to their learning of digital circuit| Designing a circuit with Basic gates and identify the output at each stage| Decoder is constructed from ________________
+a) Inverters
+b) AND gates
+<b>c) Inverters and AND gates</b>
+d) None of the mentioned
+
+2.| User will be able to design combinational circuit of Decoder| Design the full circuit with 3 input and 8 output| A decoder converts n inputs to __________ outputs.
+a) n
+b) n^2
+<b>c) 2^n</b>
+d) n^n
+
 
 
 You can add more question. All questions may not be as MCQ
