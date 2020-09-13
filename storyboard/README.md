@@ -35,9 +35,9 @@ If enable input = 1
 The output will be depend on inputs for example, if A=0, B=1, C=0, then as per the decoder circuit, O2 will be high.
 
 #### 2.2 Set User Objectives & Goals:
-User will be able to apply to their learning of digital circuit
-User will be able to design combinational circuit of Decoder
-User will be able to evaluate the truth table of 3 x 8 Decoder
+User will be able to apply to their learning of digital circuit<br>
+User will be able to design combinational circuit of Decoder<br>
+User will be able to evaluate the truth table of 3 x 8 Decoder<br>
 
 Goals: 
 •	Learn and Design of combination circuit of 3x8 Decoder.
