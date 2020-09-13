@@ -1,16 +1,27 @@
 ## Storyboard (Round 2)
 
-Delete this line before submission : The core principle of Round 2 is to make the lab/experiment documentation elaborated in a manner that it makes easy for any person (developer/domain and non domain faculty/student) to understand and develop the lab/experiment.
 
-Experiment 1: Name of the Experiment
+Experiment 1: 3-8 Line Decoder
 
 ### 1. Story Outline:
 
-Describe outline Here ( guide : The proposer should first draft the story outline for the proposed outline. This could be 2 or 3 paragraphs.)
+In digital electronics, a decoder can take the form of a multiple-input, multiple-output logic circuit that converts coded inputs into coded outputs, where the input and output codes are different e.g. n-to-2n, binary-coded decimal decoders. 
 
 ### 2. Story:
 
-Describe the Story intorduction here (guide : The next step is to write a story. Story should be a brief logical description in simple English. It should talk about the overall execution of the experiment in a simplified manner. (should not include any equations/ drawings). The story should include the following points) )
+A decoder would be the n-to-2n type binary decoders. These types of decoders are combinational circuits that convert binary information from 'n' coded inputs to a maximum of 2n unique outputs. In case the 'n' bit coded information has unused bit combinations, the decoder may have less than 2n outputs. 2-to-4 decoder, 3-to-8 decoder or 4-to-16 decoder are other examples.
+Let us suppose that a logic network has 3 inputs A, B and C. They will give rise to 8 states as mentioned below. The truth table for this decoder is shown below:
+Enable	A	B	C	O7	O6	O5	O4	O3	O2	O1	O0
+0	X	X	X	0	0	0	0	0	0	0	0
+1	0	0	0	0	0	0	0	0	0	0	1
+1	0	0	1	0	0	0	0	0	0	1	0
+1	0	1	0	0	0	0	0	0	1	0	0
+1	0	1	1	0	0	0	0	1	0	0	0
+1	1	0	0	0	0	0	1	0	0	0	0
+1	1	0	1	0	0	1	0	0	0	0	0
+1	1	1	0	0	1	0	0	0	0	0	0
+1	1	1	1	1	0	0	0	0	0	0	0
+
 
 #### 2.1 Set the Visual Stage Description:
 Describe here : (guide When a user lands up into a simulator, the visual stage is the first thing that user comes across. The visual stage should include all the elements to be seen by a user on an imaginary canvas.  (This should NOT include any drawings. ) )
