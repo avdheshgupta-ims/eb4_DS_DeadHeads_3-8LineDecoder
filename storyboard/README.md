@@ -23,6 +23,11 @@ Enable | A | B |C | O7 | O6 | O5 | O4 | O3 | O2 | O1 | O0
 1	|1	|1	|0|	0	|1	|0	|0	|0	|0|	0|	0
 1	|1	|1	|1	|1	|0|	0|	0|	0	|0	|0|	0|
 
+<img src="https://github.com/avdheshgupta-ims/eb4_DS_DeadHeads_3-8LineDecoder/blob/master/storyboard/images/Decoder.jpg">
+Fig1: Block Diagram of 3x8 Decoder
+<img src="https://github.com/avdheshgupta-ims/eb4_DS_DeadHeads_3-8LineDecoder/blob/master/storyboard/images/FULL%20DECODER.jpg">
+Fig2: Logic Diagram of 3x8 Decoder
+
 
 #### 2.1 Set the Visual Stage Description:
 Describe here : (guide When a user lands up into a simulator, the visual stage is the first thing that user comes across. The visual stage should include all the elements to be seen by a user on an imaginary canvas.  (This should NOT include any drawings. ) )
