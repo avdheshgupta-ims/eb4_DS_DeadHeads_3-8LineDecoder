@@ -13,9 +13,9 @@ A decoder would be the n-to-2n type binary decoders. These types of decoders are
 Let us suppose that a logic network has 3 inputs A, B and C. They will give rise to 8 states as mentioned below. The truth table for this decoder is shown below:
 Enable | A | B |C | O7 | O6 | O5 | O4 | O3 | O2 | O1 | O0
 :--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--| 
-0	|X|X|	0|	0|	0|	0|	0|	0|	0|	0|
+0	|X|X|X|	0|	0|	0|	0|	0|	0|	0|	0|
 1|	0|	0|	0|	0| 0|	0|	0|	0|	0|	0|	1|
-1|	0	|0	|1	|0	|0	0	|0|	0	|0|	1|	0|
+1|	0	|0	|1	|0	|0	|0	|0|	0	|0|	1|	0|
 1|0	|1|	0|	0	|0	|0|	0|	0|	1|	0|	0|
 1	|0	|1	|1	|0|	0	|0	|0	|1|	0	|0	|0|
 1	|1	|0	|0	|0|	0	|0	|1	|0|	0	|0|0|
