@@ -39,7 +39,7 @@ User will be able to apply to their learning of digital circuit<br>
 User will be able to design combinational circuit of Decoder<br>
 User will be able to evaluate the truth table of 3 x 8 Decoder<br>
 
-Goals: 
+Goals: <br>
 •	Learn and Design of combination circuit of 3x8 Decoder.
 
 
@@ -52,7 +52,24 @@ Goals:
 
 ##### 2.4 Set Challenges and Questions/Complexity/Variations in Questions:
 
-Describe the challenges Here : (guide : Set Challenges and Questions/Complexity/variations in questions according to User’s level, so as to invoke the learners’ interest.  (while traversing, what challenges he will face? how he has to solve and overcome ? descriptive).)
+Q.1) Which of the following is a decoder IC?<br>
+a) 7890<br>
+<b>b) 8870</b><br>
+c) 4047<br>
+d) 4041<br>
+
+Q.2) Which of the following represents a number of output lines for a decoder with 4 input lines?<br>
+a) 15<br>
+<b>b) 16</b><br>
+c) 17<br>
+d) 18<br>
+Q.3) Which gate is best used as a basic comparator?<br>
+
+a)	NOR<br>
+b)	OR<br>
+<b>c)	Exclusive-OR</b><br>
+d)	AND<br>
+
 
 ##### 2.5 Allow pitfalls:
 NA
