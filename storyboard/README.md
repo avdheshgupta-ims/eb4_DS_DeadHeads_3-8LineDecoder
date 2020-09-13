@@ -11,16 +11,17 @@ In digital electronics, a decoder can take the form of a multiple-input, multipl
 
 A decoder would be the n-to-2n type binary decoders. These types of decoders are combinational circuits that convert binary information from 'n' coded inputs to a maximum of 2n unique outputs. In case the 'n' bit coded information has unused bit combinations, the decoder may have less than 2n outputs. 2-to-4 decoder, 3-to-8 decoder or 4-to-16 decoder are other examples.
 Let us suppose that a logic network has 3 inputs A, B and C. They will give rise to 8 states as mentioned below. The truth table for this decoder is shown below:
-Enable	A	B	C	O7	O6	O5	O4	O3	O2	O1	O0
-0	X	X	X	0	0	0	0	0	0	0	0
-1	0	0	0	0	0	0	0	0	0	0	1
-1	0	0	1	0	0	0	0	0	0	1	0
-1	0	1	0	0	0	0	0	0	1	0	0
-1	0	1	1	0	0	0	0	1	0	0	0
-1	1	0	0	0	0	0	1	0	0	0	0
-1	1	0	1	0	0	1	0	0	0	0	0
-1	1	1	0	0	1	0	0	0	0	0	0
-1	1	1	1	1	0	0	0	0	0	0	0
+Enable | A | B |C | O7 | O6 | O5 | O4 | O3 | O2 | O1 | O0
+:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--| 
+0	|X|X|	0|	0|	0|	0|	0|	0|	0|	0|
+1|	0|	0|	0|	0| 0|	0|	0|	0|	0|	0|	1|
+1|	0	|0	|1	|0	|0	0	|0|	0	|0|	1|	0|
+1|0	|1|	0|	0	|0	|0|	0|	0|	1|	0|	0|
+1	|0	|1	|1	|0|	0	|0	|0	|1|	0	|0	|0|
+1	|1	|0	|0	|0|	0	|0	|1	|0|	0	|0|0|
+1	|1	|0	|1	|0|	0	|1	|0|	0|	0	|0|	0|
+1	|1	|1	|0|	0	|1	|0	|0	|0	|0|	0|	0
+1	|1	|1	|1	|1	|0|	0|	0|	0	|0	|0|	0|
 
 
 #### 2.1 Set the Visual Stage Description:
