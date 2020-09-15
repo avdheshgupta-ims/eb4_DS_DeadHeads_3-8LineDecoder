@@ -6,7 +6,7 @@
 
 <b>Discipline | <b>Computer Science
 :--|:--|
-<b> Lab | <b> Computer Organization (KCS-352)
+<b> Lab | <b> Computer Organization
 <b> Experiment|     <b> Implementing 3-8 line Decoder.
 
 
@@ -25,9 +25,10 @@
 
 Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 :--|:--|:--|:-:
-1.| User will be able to apply to their learning of digital circuit |Applying| Apply
-2.| User will be able to design combinational circuit of Decoder | Create| Create
-3.| User will be able to evaluate the truth table of 3 x 8 Decoder | Evaluate |Evaluate
+1.| User will be able to understand the basic knowledge of logic gate and logic circuit |Understand| understand
+2.| User will be able to apply to their learning of digital circuit | Applying | apply
+2.| User will be able to design combinational circuit of Decoder | Create| design
+3.| User will be able to evaluate the truth table of 3 x 8 Decoder | Evaluate |evaluate
 
 
 <br/>
@@ -65,9 +66,9 @@ Read the theory and comprehend the concepts related to the experiment.
 
 Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the simulator | Assessment Questions as per LO & Task
 :--|:--|:--|:-:
-1.| User will be able to apply to their learning of digital circuit | Designing a circuit with Basic gates and identify the output at each stage| Decoder is constructed from ____________<br><b>Inverters and AND gates.</b>
-2.| User will be able to design combinational circuit of Decoder| Design the full circuit with 3 input and 8 output | A decoder converts n inputs to __________ outputs.<br>a)n<br>b)n^2<br>c)<b>2^n</b><br>d)n^n<br>
-3.| User will be able to evaluate the truth table of 3 x 8 Decoder| Check the output based on 3 bits input|Which of the following can be represented for decoder?<br>a)Sequential circuit<br>b)<b>Combinational circuit</b><br>c)Logical circuit<br>d)None of the mentioned<br>
+1.| User will be able to apply to their learning of digital circuit | Designing a circuit with Basic gates and identify the output at each stage| What is the output of 1+1 in XOR Gate:<br><b>a) 0 </b><br>b) 1<br>c) 0 with carry 1<br>
+2.| User will be able to design combinational circuit of Decoder| Design the full circuit with 3 input and 8 output | If a Decoder has n input then the output will be<br>a)2n<br>b)n<br><b>c)2^n</b><br>
+3.| User will be able to evaluate the truth table of 3 x 8 Decoder| Check the output based on 3 bits input|The output of Decoder will be if input is 111<br>a)O5<br>b)<b>O7</b><br>c)<O0<br>d)O8<br>
 
 
 <br>
