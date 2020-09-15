@@ -74,7 +74,7 @@ Q.3)	There is always n input and 2^n output in any decoder.
 
 
 ##### 2.5 Allow pitfalls:
-The user must have the basic knowledge of combinational circuit.
+The user must have the basic knowledge of combinational circuit. The simulator is limited to show the verification of truth table.
 ##### 2.6 Conclusion:
 Combinational logic circuits 3x8 Decoder has been designed and simulated using logic gates.
 
@@ -90,7 +90,7 @@ O0 = A’B’C’
 <br>O7 = ABC
 
 
-### 3. Flowchart 4
+### 3. Flowchart
 <img src="https://github.com/avdheshgupta-ims/eb4_DS_DeadHeads_3-8LineDecoder/blob/master/storyboard/images/WhatsApp%20Image%202020-09-13%20at%209.54.58%20PM.jpeg"/><br>
 <br>
 
