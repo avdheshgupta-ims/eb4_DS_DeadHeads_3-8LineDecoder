@@ -79,15 +79,15 @@ The user must have the basic knowledge of combinational circuit.
 Combinational logic circuits 3x8 Decoder has been designed and simulated using logic gates.
 
 ##### 2.7 Equations/formulas: NA
-As the AND Gate out is depends on the input given to AND gate, and the output of AND Gate will be true if all inputs are 1. Therefore:
+As the AND Gate out is depends on the input given to AND gate, and the output of AND Gate will be true if all inputs are 1. Therefore:<br>
 O0 = A’B’C’
-O1 = A’B’C
-O2 = A’BC’
-O3 = A’BC
-O4 = AB’C’
-O5 = AB’C
-O6 = ABC’
-O7 = ABC
+<br>O1 = A’B’C
+<br>O2 = A’BC’
+<br>O3 = A’BC
+<br>O4 = AB’C’
+<br>O5 = AB’C
+<br>O6 = ABC’
+<br>O7 = ABC
 
 
 ### 3. Flowchart 4
