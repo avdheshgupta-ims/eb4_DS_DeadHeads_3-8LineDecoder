@@ -52,5 +52,3 @@ SrNo | Name | Faculty or Student | Department| Institute | Email id
 3 | Devanshi Srivastava | Student | Information Technology (IT) | IMS Engineering College| dev6sri@gmail.com
 
 
-<br>
-for more details on Rounds visit : <b> [HERE](http://vlabs.iitb.ac.in/gitlab/Community-Docs/New-Lab-development/List-of-Rounds/blob/master/README.md) </b>
