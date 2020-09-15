@@ -192,6 +192,7 @@ var decoder = function() {
 			document.getElementById("decoder0").src = "images/lightbulb1left.png";
 			document.getElementById("decoder0_text").value = 1;
 			document.getElementById("decoder0_img").src ="images/Table0.png";
+			document.getElementById("decoder0_img2").src ="images/decoder0i.png";
 		} else {
 			document.getElementById("decoder0").src = "images/lightbulbleft.png";
 			document.getElementById("decoder0_text").value = 0;
@@ -200,6 +201,7 @@ var decoder = function() {
 			document.getElementById("decoder1").src = "images/lightbulb1left.png";
 			document.getElementById("decoder1_text").value = 1;
 			document.getElementById("decoder1_img").src ="images/Table1.png"
+			document.getElementById("decoder1_img2").src ="images/decoder1i.png";
 		} else {
 			document.getElementById("decoder1").src = "images/lightbulbleft.png";
 			document.getElementById("decoder1_text").value = 0;
@@ -207,7 +209,8 @@ var decoder = function() {
 		if(q2 == true) {
 			document.getElementById("decoder2").src = "images/lightbulb1left.png";
 			document.getElementById("decoder2_text").value = 1;
-			document.getElementById("decoder2_img").src ="images/Table2.png"
+			document.getElementById("decoder2_img").src ="images/Table2.png";
+			document.getElementById("decoder2_img2").src ="images/decoder2i.png";
 		} else {
 			document.getElementById("decoder2").src = "images/lightbulbleft.png";
 			document.getElementById("decoder2_text").value = 0;
@@ -215,7 +218,8 @@ var decoder = function() {
 		if(q3 == true) {
 			document.getElementById("decoder3").src = "images/lightbulb1left.png";
 			document.getElementById("decoder3_text").value = 1;
-			document.getElementById("decoder3_img").src ="images/Table3.png"
+			document.getElementById("decoder3_img").src ="images/Table3.png";
+			document.getElementById("decoder3_img2").src ="images/decoder3i.png";
 		} else {
 			document.getElementById("decoder3").src = "images/lightbulbleft.png";
 			document.getElementById("decoder3_text").value = 0;
@@ -223,7 +227,8 @@ var decoder = function() {
 		if(q4 == true) {
 			document.getElementById("decoder4").src = "images/lightbulb1left.png";
 			document.getElementById("decoder4_text").value = 1;
-			document.getElementById("decoder4_img").src ="images/Table4.png"
+			document.getElementById("decoder4_img").src ="images/Table4.png";
+			document.getElementById("decoder4_img2").src ="images/decoder4i.png";
 		} else {
 			document.getElementById("decoder4").src = "images/lightbulbleft.png";
 			document.getElementById("decoder4_text").value = 0;
@@ -231,7 +236,8 @@ var decoder = function() {
 		if(q5 == true) {
 			document.getElementById("decoder5").src = "images/lightbulb1left.png";
 			document.getElementById("decoder5_text").value = 1;
-			document.getElementById("decoder5_img").src ="images/Table5.png"
+			document.getElementById("decoder5_img").src ="images/Table5.png";
+			document.getElementById("decoder5_img2").src ="images/decoder5i.png";
 		} else {
 			document.getElementById("decoder5").src = "images/lightbulbleft.png";
 			document.getElementById("decoder5_text").value = 0;
@@ -239,7 +245,8 @@ var decoder = function() {
 		if(q6 == true) {
 			document.getElementById("decoder6").src = "images/lightbulb1left.png";
 			document.getElementById("decoder6_text").value = 1;
-			document.getElementById("decoder6_img").src ="images/Table6.png"
+			document.getElementById("decoder6_img").src ="images/Table6.png";
+			document.getElementById("decoder6_img2").src ="images/decoder6i.png";
 		} else {
 			document.getElementById("decoder6").src = "images/lightbulbleft.png";
 			document.getElementById("decoder6_text").value = 0;
@@ -247,7 +254,8 @@ var decoder = function() {
 		if(q7 == true) {
 			document.getElementById("decoder7").src = "images/lightbulb1left.png";
 			document.getElementById("decoder7_text").value = 1;
-			document.getElementById("decoder7_img").src ="images/Table7.png"
+			document.getElementById("decoder7_img").src ="images/Table7.png";
+			document.getElementById("decoder7_img2").src ="images/decoder7i.png";
 		} else {
 			document.getElementById("decoder7").src = "images/lightbulbleft.png";
 			document.getElementById("decoder7_text").value = 0;
