@@ -30,14 +30,16 @@ Fig2: Logic Diagram of 3x8 Decoder
 
 
 #### 2.1 Set the Visual Stage Description:
-There will be one enable input, if this enable input is 0, the circuit will be in high impedance state, if it is 1, then the circuit will work. There will be 3 input and 8 output. 
-If enable input = 1
-The output will be depend on inputs for example, if A=0, B=1, C=0, then as per the decoder circuit, O2 will be high.
+A clear visualization of circuit diagram or logic diagram with block diagram on simulator page. It show the Logic diagram, Block diagram and truth table. The proper animation is ther to verify the truth table of 3x8 Decoder. 
 
 #### 2.2 Set User Objectives & Goals:
-User will be able to apply to their learning of digital circuit<br>
-User will be able to design combinational circuit of Decoder<br>
-User will be able to evaluate the truth table of 3 x 8 Decoder<br>
+Sr. No |	Learning Objective	| Cognitive Level | Action Verb
+:--|:--|:--|:-:
+1.| User will be able to understand the basic knowledge of logic gate and logic circuit |Understand| understand
+2.| User will be able to apply to their learning of digital circuit | Applying | apply
+2.| User will be able to design combinational circuit of Decoder | Create| design
+3.| User will be able to evaluate the truth table of 3 x 8 Decoder | Evaluate |evaluate
+<br>
 
 Goals: <br>
 •	Learn and Design of combination circuit of 3x8 Decoder.
@@ -45,35 +47,34 @@ Goals: <br>
 
 #### 2.3 Set the Pathway Activities:
 
-1. Understand Logic gates
-2. Understand Combination circuit
-3. learn to design and simulate 3x8 Decoder
+The simulator tab will follow:<br>
+<br>1.	Logic diagram and block diagram with truth table
+<br>2.	The user can input to logic diagram or can give binary input to block diagram
+<br>3.	The diagram shows the output as per the truth table and highlight the input and output.
+<br>4.	Click on clear, to verify another combination of input/output
+
 
 
 ##### 2.4 Set Challenges and Questions/Complexity/Variations in Questions:
 
-Q.1) Which of the following is a decoder IC?<br>
-a) 7890<br>
-<b>b) 8870</b><br>
-c) 4047<br>
-d) 4041<br>
+Q.1) How many input in a decoder, if there are 16 output:
+<br><b>a.	4</b>
+<br>b.	2
+<br>c.	3
+<br>d.	5
 
-Q.2) Which of the following represents a number of output lines for a decoder with 4 input lines?<br>
-a) 15<br>
-<b>b) 16</b><br>
-c) 17<br>
-d) 18<br>
-Q.3) Which gate is best used as a basic comparator?<br>
+Q.2) Can a decoder design with NAND Gate:
+<br><b>a.	Yes</b>
+<br>b.	No
 
-a)	NOR<br>
-b)	OR<br>
-<b>c)	Exclusive-OR</b><br>
-d)	AND<br>
+Q.3)	There is always n input and 2^n output in any decoder.
+<br><b>a.	Yes</b>
+<br>b.	No
+
 
 
 ##### 2.5 Allow pitfalls:
-NA
-
+The user must have the basic knowledge of combinational circuit.
 ##### 2.6 Conclusion:
 Combinational logic circuits 3x8 Decoder has been designed and simulated using logic gates.
 
