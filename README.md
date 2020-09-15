@@ -3,23 +3,23 @@
 
 <br>
 
-<b>Discipline | <b>COMPUTER SCIENCE & ENGINEERING/INFORMATION TECHNOLOGY
+<b>Discipline | <b>COMPUTER SCIENCE
 :--|:--|
 <b> Lab | <b> Computer Organization and Architecture Lab
 <b> Experiment|     <b>Implementing 3-8 line Decoder.
 
 <h5> About the Lab (Objective) : </h5>
 
-This Lab is related to CSE and IT Branch. In this lab the user will learn circuit designing and working of various electronics circuits.
+The objective of this Computer Organization and Architecture lab is to design electronic circuits and verify the circuit according to given truth table
 
 
 <h5> About the Experiment : </h5>
 
-Thsi experiment is about to design combinational circuit with the help of Logic Gates. This experiment is about to take n coded input in the form of n input and provide 2^n output.
+Decoder. In digital electronics, a decoder can take the form of a multiple-input, multiple-output logic circuit that converts coded inputs into coded outputs, where the input and output codes are different e.g. n-to-2n , binary-coded decimal decoders. 
 
 <h5> Target Audience : </h5>
 
-Faculty and Students of 2nd year CSE and IT Branch 
+Students learning Computer Organization and Architecture and other potential learner. 
 
 <h5> Course Alignment : </h5>
 
