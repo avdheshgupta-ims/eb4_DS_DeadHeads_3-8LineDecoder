@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html><!--
+	This is a jQuery Tools standalone demo. Feel free to copy/paste.
+	                                                         
+	http://flowplayer.org/tools/demos/
+	
+	Do *not* reference CSS files and images from flowplayer.org when in production  
+
+	Enjoy!
+--><head>
+	<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="HandheldFriendly" content="true">
+	<!--Google Tag Manager--><script class="gtm">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-W59SWTR');</script><!--End Google Tag Manager-->
+	<title>DS_DeadHeads Simulator</title>
+
+	<!-- include the Tools -->
+	<script src="js/jquery.js" type="text/javascript"> </script>
+		<script src="js/jquery.tools.min.js"></script>
+		<link href="css/example.css" rel="stylesheet" type="text/css"/>
+		<link href="../../css/common.css" rel="stylesheet" type="text/css"/>
+		<script src="js/example.js" type="text/javascript"></script>
+		<script src="js/raphael.js" type="text/javascript"></script>
+		<script src="js/jquery.flot.js" type="text/javascript"></script>
+		<script src="js/utility.js" type="text/javascript"></script>
+	<!--		<script type="text/javascript" src="js/monostable.js"></script>-->
+		
+	
+	<!-- tab styling -->
+		<link href="css/tabs.css" rel="stylesheet" type="text/css"/>
+	
+	
+	<!-- tab pane styling -->
+	<style>
+	div.wrap {
+		width:700px;
+		margin-bottom:40px;
+	}
+	
+	.wrap .pane  {	
+		background:#fff repeat-x 0 20px;
+		display:none;		
+		padding:20px;
+		border:1px solid #999;
+		border-top:0;
+		font-size:14px;	 
+		font-size:18px;
+		color:#456;	
+		padding-bottom: 20px;
+    	padding-left: 9px;
+    	padding-right: 20px;
+    	padding-top: 11px;
+		
+		_background-image:none;
+	}
+	
+	.wrap .pane p {
+		font-size:38px;	
+		margin:-10px 0 -20px 0;	
+		text-align:right;
+		color:#578;
+	}
+	#header{
+	top:2px;
+	left:1px;
+	text-align: center;
+	position:relative;
+	border:2px groove  #c4c4c4;
+	width:auto
+	overflow:auto;
+	background : url("../../images/ui-bg_gloss-wave_35_f6a828_500x100.png") repeat-x scroll 50% 50% #84BFDF;
+}
+.imag{position:absolute;z-index:9999;left:332px;top:4px;}
+	.imag1{position:absolute;z-index:9999;left:1000px;top:85px;}
+	</style>
+</head>
+
+
+<body ><!--Google Tag Manager (noscript)--><noscript class="gtm"><iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-W59SWTR" style="display:none;visibility:hidden" width="0"></iframe></noscript><!--End Google Tag Manager (noscript)-->
+<div id="tabs">
+<div id="header"><span style="font-size:20px; color: #ffffff;"><h3> <u>3 x 8 DECODER</u> </h3></span><img class="imag" src=""/></div>
+	
+
+<div class="wrap">
+	<!-- experiment 5-->
+	<div class="wrap">
+		<ul class="tabs">
+			<li><a href="#">Decoder</a></li>
+		</ul>
+		<!-- Decoder-->
+		<div class="pane"><label class="lable_title"></label>
+				
+				
+					
+			<p style="position: absolute; float: left; top: 300px; left: 100px; width: auto; font-size: 20px;text-align: left; color:black;"><span style="background-color: black; color:white">NOTE:</span><br>Use the buttons to operate the inputs.<br> Decoder.</p>
+			<br><p style="position: absolute; float: left; top: 600px; left: 100px; width: auto; font-size: 20px;text-align: left;color:black;"><span style="background-color: black; color:white">Quick Question:</span><br>1. Name all the gates used in<br>    3-8 Line Decoder.<br>2. Taking 4 inputs, how many possible outputs can come?<br></p>
+			<input alt="Run" id="run_button_dec" style="position: absolute; top: 820px; left: 600px; height: 65px; width: 70px;" title="Run" type="button" value="Run"/>
+				<p style="position: absolute; top: 740px; left: 1109px; height: 65px; width: auto;"><b>BLOCK DIAGRAM</b></p>
+				<input alt="Clear/Reset" id="clear_button_dec" style="position: absolute; top: 820px; left: 689px; height: 65px; width: 70px;" title="Clear/Reset" type="button" value="Clear"/>
+			
+				
+				<p style="position: absolute; top: 150px; left: 550px; height: 65px; width: auto;"><b>CIRCUIT DIAGRAM</b></p>
+				<img id="decoderexp_5" src="images/decoder.png" style="position : absolute;top:190px ; left :394px;"/>
+				<p style="position: absolute; top: 150px; left: 1200px; height: 65px; width: auto;"><b>TRUTH TABLE</b></p>
+				<img src="images/DecoderTable.png"  style="position: absolute;  left: 1070px; top: 225px; overflow: hidden;" >
+				
+				<div id="switches11">
+					<input disabled="true" id="s0_0_text" maxlength="1" size="1" style="position: absolute; top: 760px; left: 637px; text-align: center;" type="text" value="0"/>
+				<img id="s0_0" src="images/off.png" style="position : absolute; top:686px ; left : 634px;"/>	
+				<input disabled="true" id="s1_1_text" maxlength="1" size="1" style="position: absolute; top: 760px; left: 555px; text-align: center;" type="text" value="0"/>
+				<img id="s1_1" src="images/off.png" style="position : absolute; top:686px ; left : 553px;"/>	
+				<input disabled="true" id="s2_2_text" maxlength="1" size="1" style="position: absolute; top: 760px; left: 476px; text-align: center;" type="text" value="0"/>
+				<img id="s2_2" src="images/off.png" style="position : absolute; top:686px ; left : 475px;"/>	
+				</div>
+				<img id="decoder7" src="images/lightbulbleft.png" style="position : absolute; top:210px ; left : 891px;"/>
+				<input disabled="true" id="decoder7_text" maxlength="1" size="1" style="position: absolute; top: 217px; left: 928px; text-align: center;" type="text" value="0"/>
+				<img id="decoder7_img" src="" disabled="true" style="position: absolute;  left: 1070px; top: 225px;overflow: hidden;" >
+
+				<img id="decoder6" src="images/lightbulbleft.png" style="position : absolute; top:266px ; left : 891px;"/>
+				<input disabled="true" id="decoder6_text" maxlength="1" size="1" style="position: absolute; top: 271px; left: 928px; text-align: center;" type="text" value="0"/>
+				<img id="decoder6_img" src="" disabled="true" style="position: absolute;  left: 1070px; top: 225px;overflow: hidden;" >
+				
+				<img id="decoder5" src="images/lightbulbleft.png" style="position : absolute; top:322px ; left : 891px;"/>
+				<input disabled="true" id="decoder5_text" maxlength="1" size="1" style="position: absolute; top: 328px; left: 928px; text-align: center;" type="text" value="0"/>
+				<img id="decoder5_img" src="" disabled="true" style="position: absolute;  left: 1070px; top: 225px;overflow: hidden;" >
+
+				<img id="decoder4" src="images/lightbulbleft.png" style="position : absolute; top:378px ; left : 891px;"/>
+				<input disabled="true" id="decoder4_text" maxlength="1" size="1" style="position: absolute; top: 384px; left: 928px; text-align: center;" type="text" value="0"/>
+				<img id="decoder4_img" src="" disabled="true" style="position: absolute;  left: 1070px; top: 225px;overflow: hidden;" >
+
+				<img id="decoder3" src="images/lightbulbleft.png" style="position : absolute; top:435px ; left : 891px;"/>
+				<input disabled="true" id="decoder3_text" maxlength="1" size="1" style="position: absolute; top: 442px; left: 928px; text-align: center;" type="text" value="0"/>
+				<img id="decoder3_img" src="" disabled="true" style="position: absolute;  left: 1070px; top: 225px;overflow: hidden;" >
+
+				<img id="decoder2" src="images/lightbulbleft.png" style="position : absolute; top:492px ; left : 891px;"/>
+				<input disabled="true" id="decoder2_text" maxlength="1" size="1" style="position: absolute; top: 497px; left: 928px; text-align: center;" type="text" value="0"/>
+				<img id="decoder2_img" src="" disabled="true" style="position: absolute;  left: 1070px; top: 225px;overflow: hidden;" >
+
+				<img id="decoder1" src="images/lightbulbleft.png" style="position : absolute; top:548px ; left : 891px;"/>
+				<input disabled="true" id="decoder1_text" maxlength="1" size="1" style="position: absolute; top: 555px; left: 928px; text-align: center;" type="text" value="0"/>
+				<img id="decoder1_img" src="" disabled="true" style="position: absolute;  left: 1070px; top: 225px;overflow: hidden;" >
+
+				<img id="decoder0" src="images/lightbulbleft.png" style="position : absolute; top:603px ; left : 891px;"/>
+				<input disabled="true" id="decoder0_text" maxlength="1" size="1" style="position: absolute; top: 610px; left: 928px; text-align: center;" type="text" value="0"/>
+				<img id="decoder0_img" src="" disabled="true" style="position: absolute;  left: 1070px; top: 225px;overflow: hidden; " >
+				
+				<div id="s_decoder" style="position: absolute; text-align:center; top: 842px; left: 950px; border: 1px solid rgb(51, 51, 51); width: 40px;">000</div>
+				<img id="imgdecoder" src="images/imgdecoder.png" style="position: absolute; top: 800px; left: 1000px;"/>
+				<div id="q_decoder" style="position: absolute; text-align:center; top: 842px; left: 1560px; border: 1px solid rgb(51, 51, 51); width: 90px;">00000000</div>
+		</div>
+		<!-- Multiplexer-->
+		
+	
+	<div style="position:absolute; top:897px; width:897px;margin:0 auto;">
+
+
+
+
+
+</div>
+
+
+
+</body></html>
