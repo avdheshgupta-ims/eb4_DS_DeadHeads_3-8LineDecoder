@@ -1,4 +1,4 @@
-## <b> Pre-test
+## <b> Pre-test</b>
 #### Please attempt the following questions
 <br>Ques1. What is the output of decoder if input is 001
 <br>a.	I0
