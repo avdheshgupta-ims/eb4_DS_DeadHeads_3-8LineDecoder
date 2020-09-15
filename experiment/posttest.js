@@ -90,29 +90,39 @@
 
   const myQuestions = [
     {
-      question: "This is question 1?",  ///// Write the question inside double quotes
+      question: "What is the output of decoder if input is 001?",  ///// Write the question inside double quotes
       answers: {
-        a: "Option 1",                  ///// Write the option 1 inside double quotes
-        b: "Option 2",                  ///// Write the option 2 inside double quotes
-        c: "Option 3",                  ///// Write the option 3 inside double quotes
-        d: "Option 4"                   ///// Write the option 4 inside double quotes
+        a: "I0",                  ///// Write the option 1 inside double quotes
+        b: "I2",                  ///// Write the option 2 inside double quotes
+        c: "I7",                  ///// Write the option 3 inside double quotes
+        d: "I1"                   ///// Write the option 4 inside double quotes
       },
-      correctAnswer: "a"                ///// Write the correct option inside double quotes
+      correctAnswer: "d"                ///// Write the correct option inside double quotes
     },
 
     {
-      question: "This is question 2?",  ///// Write the question inside double quotes
+      question: "THow many output in a decoder is there will be 5 inputs?",  ///// Write the question inside double quotes
       answers: {
-        a: "Option 1",                  ///// Write the option 1 inside double quotes
-        b: "Option 2",                  ///// Write the option 2 inside double quotes
-        c: "Option 3",                  ///// Write the option 3 inside double quotes
-        d: "Option 4"                   ///// Write the option 4 inside double quotes
+        a: "5",
+        b: "32",
+        c: "10",
+        d: "16"
       },
-      correctAnswer: "b"                ///// Write the correct option inside double quotes
+      correctAnswer: "b"               ///// Write the correct option inside double quotes
     },                                  ///// To add more questions, copy the section below 
     									                  ///// this line
 
 
+     {
+      question: "How many output in decoder if input will be n?",
+      answers: {
+        a: "2n",
+        b: "2^n",
+        c: "n/2",
+        d: "n"
+      },
+      correctAnswer: "b"
+    },
     /* To add more MCQ's, copy the below section, starting from open curly braces ( { )
         till closing curly braces comma ( }, )
 
