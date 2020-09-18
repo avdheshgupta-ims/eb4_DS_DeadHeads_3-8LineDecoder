@@ -96,6 +96,6 @@ Sr.No | What Students will do? |	What Simulator will do?	| Purpose of the task
 2.| The user need to gives input to Decoder | Simulator show the green signal that it is one or on | To show the input value given by the user
 3.| Click on RUN | The simulator will show how the input is goes to circuit and how output is generated | To verify the truth table of 3x8 decoder
 4.| Click on CLEAR | The simulator clears all the input | To check another output based on another input
-5.| Repear the step 2,3 and 4| The simulator behave like step 2,3,4 | To check and verify the complete tructh table
+5.| Repeat the step 2,3 and 4| The simulator behave like step 2,3,4 | To check and verify the complete tructh table
 
 
