@@ -33,7 +33,7 @@ Fig2: Logic Diagram of 3x8 Decoder
 A clear visualization of circuit diagram or logic diagram with block diagram on simulator page. It show the Logic diagram, Block diagram and truth table. The proper animation is ther to verify the truth table of 3x8 Decoder. 
 
 #### 2.2 Set User Objectives & Goals:
-Sr. No |	Learning Objective	| Cognitive Level | Action Verb
+Sr. No |	Learning Objective	| 
 :--|:--|:--|:-:
 1.| User will be able to understand the basic knowledge of logic gate and logic circuit.
 2.| User will be able to apply to their learning of digital circuit.
