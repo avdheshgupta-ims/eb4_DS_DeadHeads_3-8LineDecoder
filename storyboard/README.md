@@ -5,12 +5,12 @@ Experiment 1: 3-8 Line Decoder
 
 ### 1. Story Outline:
 
-In digital electronics, a decoder can take the form of a multiple-input, multiple-output logic circuit that converts coded inputs into coded outputs, where the input and output codes are different e.g. n-to-2n, binary-coded decimal decoders. 
+In digital electronics, a decoder can take inputs in the form of 1 or 0. It has 3 bits inputs and 8 outputs. The coded 3x8 Decoder converts coded inputs into coded outputs, where the input and output codes are different e.g. n-to-2^n, binary-coded decimal decoders. 
 
 ### 2. Story:
 
-A decoder would be the n-to-2n type binary decoders. These types of decoders are combinational circuits that convert binary information from 'n' coded inputs to a maximum of 2n unique outputs. In case the 'n' bit coded information has unused bit combinations, the decoder may have less than 2n outputs. 2-to-4 decoder, 3-to-8 decoder or 4-to-16 decoder are other examples.
-Let us suppose that a logic network has 3 inputs A, B and C. They will give rise to 8 states as mentioned below. The truth table for this decoder is shown below:
+A decoder is a n-to-2^n type binary decoders. The Decoder is a digital circuit which is a combinational circuit that convert coded binary information from 'n' coded inputs to a maximum of 2^n unique coded outputs. Few examples of Decoder are: 2-to-4 decoder, 3-to-8 decoder or 4-to-16 decoder.
+Let us consider that a logic network has 3 inputs A, B and C. Their output will be as per the following 8 states as mentioned below. The truth table for this decoder is shown below:
 Enable | A | B |C | O7 | O6 | O5 | O4 | O3 | O2 | O1 | O0
 :--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--| 
 0	|X|X|X|	0|	0|	0|	0|	0|	0|	0|	0|
@@ -35,14 +35,14 @@ A clear visualization of circuit diagram or logic diagram with block diagram on 
 #### 2.2 Set User Objectives & Goals:
 Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 :--|:--|:--|:-:
-1.| User will be able to understand the basic knowledge of logic gate and logic circuit |Understand| understand
-2.| User will be able to apply to their learning of digital circuit | Applying | apply
-2.| User will be able to design combinational circuit of Decoder | Create| design
-3.| User will be able to evaluate the truth table of 3 x 8 Decoder | Evaluate |evaluate
+1.| User will be able to understand the basic knowledge of logic gate and logic circuit.
+2.| User will be able to apply to their learning of digital circuit.
+2.| User will be able to design combinational circuit of Decoder.
+3.| User will be able to evaluate the truth table of 3 x 8 Decoder.
 <br>
 
 Goals: <br>
-•	Learn and Design of combination circuit of 3x8 Decoder.
+•	Learn and understand of working od 3x8 Decoder.
 
 
 #### 2.3 Set the Pathway Activities:
@@ -51,7 +51,7 @@ The simulator tab will follow:<br>
 <br>1.	Logic diagram and block diagram with truth table
 <br>2.	The user can input to logic diagram or can give binary input to block diagram
 <br>3.	The diagram shows the output as per the truth table and highlight the input and output.
-<br>4.	Click on clear, to verify another combination of input/output
+<br>4.	The user can clear the previous input/output to verify another combination of input/output
 
 
 
