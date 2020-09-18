@@ -91,7 +91,7 @@ O0 = A’B’C’
 
 
 ### 3. Flowchart
-<img src="https://github.com/avdheshgupta-ims/eb4_DS_DeadHeads_3-8LineDecoder/blob/master/storyboard/images/WhatsApp%20Image%202020-09-13%20at%209.54.58%20PM.jpeg"/><br>
+<img src="https://github.com/avdheshgupta-ims/eb4_DS_DeadHeads_3-8LineDecoder/blob/master/storyboard/images/DecoderFC.png"/><br>
 <br>
 
 ### 4. Mindmap:
