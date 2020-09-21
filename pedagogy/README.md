@@ -50,7 +50,7 @@ Student has to follow instructions from digital circuit design (combinational ci
 <br/>
 <u> <b>Simulator: </b> </u>
 <br>
-n coded input (3 input) and then passing the combination of 3 bits to designed circuit gives 2n output.
+n coded input (3 input) and then passing the combination of 3 bits to designed circuit gives 2^n output.
 <br/>
 <div align="right">
     <b><a href="#top">↥ back to top</a></b>
@@ -83,11 +83,6 @@ Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the s
 <a name="SI"></a>
 
 #### 4. Simulator Interactions:
-<br>
-1. The first page display the design of Logic diagram 3x8 Decoder and Block Diagram of 3x8 Decoder.<br>
-2. The user need to enter the value of input in Logic diagram of decoder.<br>
-3. The simulator will show the output based on the truth table available at simulator page.<br>
-
 <br>
 
 Sr.No | What Students will do? |	What Simulator will do?	| Purpose of the task
