@@ -39,7 +39,7 @@ Dr. APJ Abdul Kalam Technical University, Lucknow
 
 <b>Mentored by | <b> Dr. Sangeeta Arora
 :--|:--|
-<b> Institute | <b> KIET
+<b> Institute | <b> KIET Group of Insitutions
 <b> Email id|     <b> sangeeta.arora@kiet.edu
 <b> Department | Computer Applications
 
