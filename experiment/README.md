@@ -19,21 +19,24 @@ c.	Combinational and Sequential Circuit
 a.	Yes	
 b.	No
 
-### Post Test
+### Post Test<br>
 Ques1. What is the output of decoder if input is 001
 a.	I0
 b.	I1
 c.	I2
 d.	I7
-Ques2. How many output in a decoder is there will be 5 inputs.
+<br>Ques2. How many output in a decoder is there will be 5 inputs.
 a.	5
 b.	32
 c.	10
 d.	16
-Ques3. How many output in decoder if input will be n.
+<br>Ques3. How many output in decoder if input will be n.
 a.	2n
 b.	2n
 c.	n/2
 d.	n
 
 ### References
+<br>
+Mano, M. M., & Ciletti, M. D. (2007). Digital design (pp. 17-18). Upper Saddle River, NJ: Pearson Prentice Hall.
+Hamacher, V. C. (2012). Computer organization and embedded systems/Carl Hamacher...[et al.]. New York, NY: McGraw-Hill,.
