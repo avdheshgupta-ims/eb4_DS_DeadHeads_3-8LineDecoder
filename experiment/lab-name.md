@@ -1,2 +1,2 @@
 ### Lab Name
-Computer Organisations
+Computer Organisation Lab
