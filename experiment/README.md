@@ -12,31 +12,31 @@ A decoder would be the n-to-2n type binary decoders. These types of decoders are
 
 ### Pre Test
 <br>Ques1. What are the two types of circuits?
-a.	Combinational and Mixed Circuit
-b.	Sequential and Mixed Circuit
-c.	Combinational and Sequential Circuit
+<br>a.	Combinational and Mixed Circuit
+<br>b.	Sequential and Mixed Circuit
+<br><b>c.	Combinational and Sequential Circuit</b>
 <br>Ques2. Can we design any circuit by using Single Type of Universal Gates Only?
-a.	Yes	
-b.	No
+<br><b>a.	Yes</b>	
+<br>b.	No
 
 ### Post Test<br>
 Ques1. What is the output of decoder if input is 001
-a.	I0
-b.	I1
-c.	I2
-d.	I7
+<br>a.	I0
+<br><b>b.	I1</b>
+<br>c.	I2
+<br>d.	I7
 <br>Ques2. How many output in a decoder is there will be 5 inputs.
-a.	5
-b.	32
+<br>a.	5
+<br><b>b.	32</b><br>
 c.	10
-d.	16
+<br>d.	16
 <br>Ques3. How many output in decoder if input will be n.
-a.	2n
-b.	2n
-c.	n/2
-d.	n
+<br>a.	2n
+<br><b>b.	2n</b>
+<br>c.	n/2
+<br>d.	n
 
 ### References
 <br>
 Mano, M. M., & Ciletti, M. D. (2007). Digital design (pp. 17-18). Upper Saddle River, NJ: Pearson Prentice Hall.
-Hamacher, V. C. (2012). Computer organization and embedded systems/Carl Hamacher...[et al.]. New York, NY: McGraw-Hill,.
+<br>Hamacher, V. C. (2012). Computer organization and embedded systems/Carl Hamacher...[et al.]. New York, NY: McGraw-Hill,.
