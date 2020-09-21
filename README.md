@@ -19,11 +19,11 @@ Decoder. In digital electronics, a decoder can take the form of a multiple-input
 
 <h5> Target Audience : </h5>
 
-Students learning Computer Organization and Architecture and other potential learner. 
+Students and Faculty 
 
 <h5> Course Alignment : </h5>
 
-B. Tech.
+B. Tech. CS/IT 2nd Year
 
 <h5> Universities Mapped : </h5>
 
