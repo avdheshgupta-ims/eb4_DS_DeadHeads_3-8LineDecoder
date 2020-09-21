@@ -15,7 +15,7 @@ The objective of this Computer Organization and Architecture lab is to design el
 
 <h5> About the Experiment : </h5>
 
-Decoder: In digital electronics, a decoder can take the form of a multiple-input, multiple-output logic circuit that converts coded inputs into coded outputs, where the input and output codes are different e.g. n-to-2n , binary-coded decimal decoders. 
+Decoder: In digital electronics, a decoder can take the form of a multiple-input, multiple-output logic circuit that converts coded inputs into coded outputs, where the input and output codes are different e.g. n-to-2^n , binary-coded decimal decoders. 
 
 <h5> Target Audience : </h5>
 
