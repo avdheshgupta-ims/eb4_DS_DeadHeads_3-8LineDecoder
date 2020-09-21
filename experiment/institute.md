@@ -1,2 +1,2 @@
 #### <!-- Write your institute name here -->
-IMS Engineering College
+IMS Engineering College, Ghaziabad
