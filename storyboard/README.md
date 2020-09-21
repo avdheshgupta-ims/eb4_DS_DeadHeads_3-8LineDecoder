@@ -82,4 +82,4 @@ O0 = A’B’C’
 ### 5. Storyboard :
 Storyboard:
 <br>
-<img src="images/sbdecoder.png">
+<img src="images/StoryBoard.png">
