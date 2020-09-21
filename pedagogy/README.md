@@ -18,17 +18,17 @@
 <hr>
 
 <a name="LO"></a>
-#### 1. Focus Area : Experimentation and Modeling
+#### 1. Focus Area : Reinforcement
+
 
 #### 2. Learning Objectives and Cognitive Level
 
 
 Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 :--|:--|:--|:-:
-1.| User will be able to understand the basic knowledge of logic gate and logic circuit |Understand| understand
+1.| User will be able to explain the basic knowledge of logic gate and logic circuit |Understand| explain
 2.| User will be able to interpret the output of digital circuit | Understand | interpret
-3.| User will be able to extend their learning in other digital circuits | Understand | extend
-4.| User will be able to analyse the flow of input and how the output is calculated | Analyse |analyse
+3.| User will be able to apply the flow of input and how the output is calculated | Apply |apply
 
 
 <br/>
@@ -40,7 +40,7 @@ Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 
 <a name="IS"></a>
 #### 3. Instructional Strategy
-###### Name of Instructional Strategy  :    <u>  Reinforce theoretical concepts: The user understands topics after seeing the simulator visually, and learn/recall their knowledge.
+###### Name of Instructional Strategy  :    <u>  Expository The user understands topics after seeing the simulator visually, and learn/recall their knowledge.
 ###### Assessment Method: Formative Assessments
 
 <u> <b>Description: </b> </u>
