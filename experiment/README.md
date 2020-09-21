@@ -1,6 +1,6 @@
 This folder has 
 ### Aim
-<br>In this experiment you will learn to design 3x8 Decoder and verify the truth table of 3x8 Decoder.<br>
+In this experiment you will learn to design 3x8 Decoder and verify the truth table of 3x8 Decoder.<br>
 ### Theory
 A decoder would be the n-to-2n type binary decoders. These types of decoders are combinational circuits that convert binary information from 'n' coded inputs to a maximum of 2n unique outputs. In case the 'n' bit coded information has unused bit combinations, the decoder may have less than 2n outputs. 2-to-4 decoder, 3-to-8 decoder or 4-to-16 decoder are other examples.<br>
 ### Procedure
@@ -15,7 +15,7 @@ A decoder would be the n-to-2n type binary decoders. These types of decoders are
 <br>a.	Combinational and Mixed Circuit
 <br>b.	Sequential and Mixed Circuit
 <br><b>c.	Combinational and Sequential Circuit</b>
-<br>Ques2. Can we design any circuit by using Single Type of Universal Gates Only?
+<br><br>Ques2. Can we design any circuit by using Single Type of Universal Gates Only?
 <br><b>a.	Yes</b>	
 <br>b.	No
 
