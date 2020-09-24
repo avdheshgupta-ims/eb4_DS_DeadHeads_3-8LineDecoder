@@ -18,7 +18,7 @@
 <hr>
 
 <a name="LO"></a>
-#### 1. Focus Area : Reinforcement theoretical concepts
+#### 1. Focus Area : Reinforcement theoretical concepts: The student can understand the topics after seeing it visually, and reaclling the concepts learnt earlier.
 
 
 #### 2. Learning Objectives and Cognitive Level
@@ -28,7 +28,7 @@ Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 :--|:--|:--|:-:
 1.| User will be able to explain the basic knowledge of logic gate and logic circuit |Understand| explain
 2.| User will be able to interpret the output of digital circuit | Understand | interpret
-3.| User will be able to apply the flow of input and how the output is calculated | Apply |apply
+3.| User will be able to apply the flow of input and learn the procedure to find the output | Apply |apply
 
 
 <br/>
@@ -50,7 +50,6 @@ Student has to follow instructions from digital circuit design (combinational ci
 <br/>
 <u> <b>Simulator: </b> </u>
 <br>
-n coded input (3 input) and then passing the combination of 3 bits to designed circuit gives 2^n output.
 <br/>
 <div align="right">
     <b><a href="#top">↥ back to top</a></b>
@@ -86,8 +85,7 @@ Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the s
 
 Sr.No | What Students will do? |	What Simulator will do?	| Purpose of the task
 :--|:--|:--|:--:
-1.| Show simulation page | Show the complete design of 3x8 Decoder | To show the Logic gates used in designing 3x8 Decoder and show the complete design with truth table  of 3x8 Decoder.
-2.| The user need to gives input to Decoder | The output will show | To verify the truth table of decoder
-3.| The user can give different inputs to decoder | The output will show as per the truth table | To verify the compelete truth table of decoder
+1.| The user need to gives input to Decoder | The output will show | To verify the output based on the input given by the user.
+2.| The user can give different inputs to decoder | The output will show as per the truth table | To verify the truth table of decoder.
 
 
