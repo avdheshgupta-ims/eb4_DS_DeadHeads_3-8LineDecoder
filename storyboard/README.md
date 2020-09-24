@@ -19,20 +19,16 @@ A clear visualization of circuit diagram or logic diagram with block diagram on 
 #### 2.2 Set User Objectives & Goals:
 Sr. No |	Learning Objective	| 
 :--|:-- |
-1.| User will be able to explain the basic knowledge of logic circuit.
-2.| User will be able to interpret the output of digital circuit.
-3.| User will be able to apply the flow of input and how the output will be displayed.
+1.| The user will learn the basic knowledge of logic circuit.
+2.| The user will interpret the output based on input to the digital circuit of Decoder.
+3.| The user will learn the mechanism to get the output based on circuit design and the input given by the user.
 
 <br>
 
 
 #### 2.3 Set the Pathway Activities:
 
-The simulator tab will follow:<br>
-<br>1. On the simulator tab, click ON/OFF button to enable or disable for the desired Input
-<br>2. Click on RUN Button
-<br>3. It show the desired output and also block diagram will show the input and output in binary
-<br>4. Click on clear, and check other inputs and repeat step 1-3
+When the user click on simulator tab, it will show simulation page, where circuit diagram of 3x8 decoder with its truth table and block diagram will display. The user need to give input to the decoder and then run the simulator. The simulator will show the output  and highlighted the desired row in the truth. Also the block diagram show the input and output in binary form. The user can input another value after clearing the previous simulation, and can check and verify the whole truth table of decoder.
 
 
 
