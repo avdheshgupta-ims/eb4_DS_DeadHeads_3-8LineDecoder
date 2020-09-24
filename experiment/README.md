@@ -1,7 +1,8 @@
 ### Aim
 In this experiment you will learn to design 3x8 Decoder and verify the truth table of 3x8 Decoder.<br>
 ### Theory
-A decoder would be the n-to-2n type binary decoders. These types of decoders are combinational circuits that convert binary information from 'n' coded inputs to a maximum of 2n unique outputs. In case the 'n' bit coded information has unused bit combinations, the decoder may have less than 2n outputs. 2-to-4 decoder, 3-to-8 decoder or 4-to-16 decoder are other examples.<br>
+Decode is and electronic circuit made from basic logic gates and can take multiple input and provide multiple outputs. The circuit design of decoder is a combinational circuit. A decoder would be the n-to-2^n type binary decoders. These types of decoders are combinational circuits that convert binary information from 'n' coded inputs to a maximum of 2^n unique outputs. 2-to-4 decoder, 3-to-8 decoder or 4-to-16 decoder are some examples of Decoder. Decoder is basically used to enable one circuit amoung multiple circuit. One example of usage of decoder is in multiple memory blocks, in which only one memory block is active at a time.<br>
+
 ### Procedure
 <br>
 1.	On the simulator tab, click ON/OFF button to enable or disable for the desired Input
