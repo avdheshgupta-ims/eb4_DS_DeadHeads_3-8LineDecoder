@@ -9,8 +9,8 @@ In digital electronics, a decoder can take inputs in the form of 1 or 0. It has 
 
 ### 2. Story:
 
-A decoder is a n-to-2^n type binary decoders. The Decoder is a digital circuit which is a combinational circuit that convert coded binary information from 'n' coded inputs to a maximum of 2^n unique coded outputs. Few examples of Decoder are: 2-to-4 decoder, 3-to-8 decoder or 4-to-16 decoder. The simulator display the complete circuit diagram with truth table. The user will test the truth table based on different inputs.
-Let us consider that a logic network has 3 inputs A, B and C. Their output will be as per the eigth states as mentioned below. 
+The simulator display the complete circuit diagram with truth table. The use can give the input in the form of on/off and the simulator will work as the highlighting the circuit by which the input is converted to putput and highlight the row in the truth table. The user can test the truth table based on different inputs. The Decoder is a digital circuit which is a combinational circuit that convert coded binary information from 'n' coded inputs to a maximum of 2^n unique coded outputs. Few examples of Decoder are: 2-to-4 decoder, 3-to-8 decoder or 4-to-16 decoder. Here the silulator is 3x8 decoder.
+
 
 
 #### 2.1 Set the Visual Stage Description:
@@ -19,9 +19,9 @@ A clear visualization of circuit diagram or logic diagram with block diagram on 
 #### 2.2 Set User Objectives & Goals:
 Sr. No |	Learning Objective	| 
 :--|:-- |
-1.| The user will learn the basic knowledge of logic circuit.
-2.| The user will interpret the output based on input to the digital circuit of Decoder.
-3.| The user will learn the mechanism to get the output based on circuit design and the input given by the user.
+1.| The user will learn and understand the basic knowledge of logic circuit.
+2.| The user will learn and interpret the output based on input to the digital circuit of Decoder.
+3.| The user will understand the mechanism of combinational circuit designed from basic logic gate and visualize the output generated from th input given to the circuit.
 
 <br>
 
