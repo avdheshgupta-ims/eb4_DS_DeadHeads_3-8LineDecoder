@@ -18,7 +18,7 @@
 <hr>
 
 <a name="LO"></a>
-#### 1. Focus Area : Reinforcement theoretical concepts: The student can understand the topics after seeing it visually, and reaclling the concepts learnt earlier.
+#### 1. Focus Area : Reinforcement theoretical concepts: The experiment is based on to verify input/output and implementing 3x8 Decoder. This experiment helps to understand advanced concept of combinational circuit and how n decoded line can be converted into 2^n coded output.
 
 
 #### 2. Learning Objectives and Cognitive Level
@@ -28,7 +28,7 @@ Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 :--|:--|:--|:-:
 1.| User will be able to explain the basic knowledge of logic gate and logic circuit |Understand| explain
 2.| User will be able to interpret the output of digital circuit | Understand | interpret
-3.| User will be able to apply the flow of input and learn the procedure to find the output | Apply |apply
+3.| User will be able to apply the the knowledge of logic gates to learn the working of decoder | Apply |apply
 
 
 <br/>
@@ -40,7 +40,7 @@ Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 
 <a name="IS"></a>
 #### 3. Instructional Strategy
-###### Name of Instructional Strategy  :    <u>  Expository The user understands topics after seeing the simulator visually, and learn/recall their knowledge.
+###### Name of Instructional Strategy  :    <u>  Expository 
 ###### Assessment Method: Formative Assessments
 
 <u> <b>Description: </b> </u>
@@ -48,9 +48,7 @@ Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 Student has to follow instructions from digital circuit design (combinational circuit) and then compare the results obtained with predetermined outcomes already known to us.
 
 <br/>
-<u> <b>Simulator: </b> </u>
-<br>
-<br/>
+
 <div align="right">
     <b><a href="#top">↥ back to top</a></b>
 </div>
@@ -67,7 +65,7 @@ Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the s
 :--|:--|:--|:-:
 1.| User will be able to explain to their learning of digital circuit | The use can give inputs to the circuit and understand the diagram | What is the output of 1+1 in XOR Gate:<br><b>a) 0 </b><br>b) 1<br>c) 0 with carry 1<br>
 2.| User will be able to interpret the output of digital circuit | Check the output of Decoder with 3 input and 8 output | If a Decoder has n input then the output will be<br>a)2n<br>b)n<br><b>c)2^n</b><br>
-3.| User will be able to apply the flow of input and how the output is calculated | The user can check the flow of current and check how the output is generated. |The output of Decoder will be if input is 1001<br>a)O5<br>b)<b>O9</b><br>c)O0<br>d)O8<br>
+3.| User will be able to apply the the knowledge of logic gates to learn the working of decoder | The user can find the flow of current and visualize how the output is generated. |The output of Decoder will be if input is 1001<br>a)O5<br>b)<b>O9</b><br>c)O0<br>d)O8<br>
 
 
 <br>
