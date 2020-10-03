@@ -19,7 +19,7 @@
 
 <a name="LO"></a>
 #### 1. Focus Area : <u> Reinforcement theoretical concepts.
-    The experiment is based on to verify input/output and implementing 3x8 Decoder. This experiment helps to understand advanced concept of combinational circuit and how n decoded line can be converted into 2^n coded output.
+<br> The experiment is based on to verify input/output and implementing 3x8 Decoder. This experiment helps to understand advanced concept of combinational circuit and how n decoded line can be converted into 2^n coded output.
 
 
 #### 2. Learning Objectives and Cognitive Level
