@@ -2,44 +2,38 @@
 
    "details": [
        {
-			"Experiment": "",     
-			"Lab": "",               
-			"Discipline": "",				 
-			"Technology": ""         
+			"Experiment": "Implementing 3-8 line Decoder.",     
+			"Lab": "Computer Organization (KCS-352)",               
+			"Discipline": "Computer Science",				 
+			"Technology": "Information Technology"         
        }
    ],
 
    "developer": [
        {       
-      "Developer": "",         
-      "Institute": "",         
-      "InstituteAcronym": ""   
+      "Developer": "Dr. Avdhesh Gupta",         
+      "Institute": "IMS Engineering College",         
+      "InstituteAcronym": "IMSEC"   
        }
    ],
 
    "contributer": [
        {       
-			"Contributer": "",             
-      "Institute": "",               
-			"InstituteAcronym": ""         
+			"Contributer": "Abhishray Gangwar",             
+      "Institute": "IMS Enguineering College",               
+			"InstituteAcronym": "IMSEC"         
        },
 
        {       
-			"Contributer": "",              
-      "Institute": "",               
-			"InstituteAcronym": ""         
+			"Contributer": "Chandan Kumar Singh",              
+      "Institute": "IMS Engineering College",               
+			"InstituteAcronym": "IMSEC"         
        },
 
        {       
-			"Contributer": "",             
-      "Institute": "",               
-			"InstituteAcronym": ""         
-       },
-
-       {       
-			"Contributer": "",              
-      "Institute": "",               
-			"InstituteAcronym": ""         
+			"Contributer": "Devanshi Srivastava",             
+      "Institute": "IMS Engineering College",               
+			"InstituteAcronym": "IMSEC"         
        }
    ]
 
