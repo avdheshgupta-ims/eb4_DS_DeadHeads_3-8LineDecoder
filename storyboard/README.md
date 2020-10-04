@@ -68,7 +68,7 @@ O0 = A’B’C’
 
 
 ### 3. Flowchart
-<img src="https://github.com/avdheshgupta-ims/eb4_DS_DeadHeads_3-8LineDecoder/blob/master/storyboard/images/FinalFC.png"/><br>
+<img src="https://github.com/avdheshgupta-ims/eb4_DS_DeadHeads_3-8LineDecoder/blob/master/storyboard/images/FinalFC2.png"/><br>
 <br>
 
 ### 4. Mindmap:
@@ -78,4 +78,4 @@ O0 = A’B’C’
 ### 5. Storyboard :
 Storyboard:
 <br>
-<img src="images/FinalSB.png">
+<img src="images/FinalSB2.png">
