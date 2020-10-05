@@ -19,9 +19,9 @@ A clear visualization of circuit diagram or logic diagram with block diagram on 
 #### 2.2 Set User Objectives & Goals:
 Sr. No |	Learning Objective	| 
 :--|:-- |
-1.| The user will learn the basic knowledge of logic circuit.
-2.| The user will learn the functioning of the digital circuit of Decoder.
-3.| The user will understand the mechanism of combinational circuit designed from basic logic gate and visualize the output generated from th input given to the circuit.
+1.| The user will be able to learn the basic knowledge of logic circuit.
+2.| The user will be able to learn the basic functioning of the digital circuit of Decoder.
+3.| The user will be able to understand the mechanism of combinational circuit designed from basic logic gate and visualize the output generated from th input given to the circuit.
 
 <br>
 
