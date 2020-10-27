@@ -1,7 +1,7 @@
 ### Aim
 In this experiment you will learn to design 3x8 Decoder and verify the truth table of 3x8 Decoder.<br>
 ### Theory
-Decode is an electronic circuit designed from basic logic gates (AND, OR, NOT) and can take multiple decoded input and provide multiple outputs. The circuit of decoder is a combinational circuit. A decoder would be the n-to-2^n type binary decoders. The decoder convert binary information from 'n' coded inputs to 2^n outputs. 2-to-4 decoder, 3-to-8 decoder or 4-to-16 decoder are some examples of Decoder. Decoder is basically used to enable one of the circuit amoung multiple circuit.<br>
+Decode is an electronic combinational circuit which includes basic logic gates (AND, OR, NOT). The circuit take multiple decoded input in the form of n and provide multiple outputs in the form of 2^n. A decoder would be the n-to-2^n type binary decoders. The decoder converts binary information from 'n' coded inputs to 2^n outputs. 2-to-4 decoder, 3-to-8 decoder or 4-to-16 decoder are some examples of Decoder. Decoder is basically used to enable one of the circuit amoung multiple circuit.<br>
 
 ### Procedure
 <br>
