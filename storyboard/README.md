@@ -19,9 +19,9 @@ A clear visualization of circuit diagram or logic diagram with block diagram on 
 #### 2.2 Set User Objectives & Goals:
 Sr. No |	Objective	| 
 :--|:-- |
-1.| The user will learn the basic knowledge of logic circuit.
-2.| The user will learn the functioning of the digital circuit of Decoder.
-3.| The user will visualize how to generate output from the input given to the circuit.
+1.| The experiment will help student in uderstanding of basic knowledge of logic circuit.
+2.| The experiment will help in learning of the functioning of the digital circuit of Decoder.
+3.| The experiment visualize how to generate output from the input given to the circuit.
 
 <br>
 
