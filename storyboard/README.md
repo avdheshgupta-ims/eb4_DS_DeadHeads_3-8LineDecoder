@@ -17,11 +17,11 @@ The simulator display the complete circuit diagram with truth table. The use can
 A clear visualization of circuit diagram or logic diagram with block diagram on simulator page. It show the Logic diagram, Block diagram and truth table. The proper animation is ther to verify the truth table of 3x8 Decoder. 
 
 #### 2.2 Set User Objectives & Goals:
-Sr. No |	Learning Objective	| 
+Sr. No |	Objective	| 
 :--|:-- |
-1.| The user will be able to learn the basic knowledge of logic circuit.
-2.| The user will be able to learn the basic functioning of the digital circuit of Decoder.
-3.| The user will be able to understand the mechanism of combinational circuit designed from basic logic gate and visualize the output generated from th input given to the circuit.
+1.| The user will learn the basic knowledge of logic circuit.
+2.| The user will learn the functioning of the digital circuit of Decoder.
+3.| The user will visualize how to generate output from the input given to the circuit.
 
 <br>
 
