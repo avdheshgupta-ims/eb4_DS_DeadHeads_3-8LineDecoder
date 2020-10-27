@@ -5,6 +5,7 @@ Decode is an electronic combinational circuit which includes basic logic gates (
 Here is a truth table for 3 to 8 Decoder.<br>
 Input |	Output
 I2	| I1 | I0 |	D7 |	D6 |	D5 |	D4 |	D3 |	D2 |	D1 |	D0 |
+:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|
 0	0	0	0	0	0	0	0	0	0	1
 0	0	1	0	0	0	0	0	0	1	0
 0	1	0	0	0	0	0	0	1	0	0
