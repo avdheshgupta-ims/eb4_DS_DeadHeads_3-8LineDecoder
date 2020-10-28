@@ -78,4 +78,6 @@ O0 = A’B’C’
 ### 5. Storyboard :
 Storyboard:
 <br>
-<img src="images/FinalSB2.png">
+<img src="images/FinalSB2.png"><br>
+<h3>Here are some screenshots of the simulator.<br>
+ <img src="images/SS.png"><br>
