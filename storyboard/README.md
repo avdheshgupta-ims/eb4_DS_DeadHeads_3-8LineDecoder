@@ -72,7 +72,7 @@ O0 = A’B’C’
 <br>
 
 ### 4. Mindmap:
-<img src="https://github.com/avdheshgupta-ims/eb4_DS_DeadHeads_3-8LineDecoder/blob/master/storyboard/images/mmdecoder (2).png"/>
+<img src="https://github.com/avdheshgupta-ims/eb4_DS_DeadHeads_3-8LineDecoder/blob/master/storyboard/images/MMDecoderF.jpeg"/>
 
 
 ### 5. Storyboard :
