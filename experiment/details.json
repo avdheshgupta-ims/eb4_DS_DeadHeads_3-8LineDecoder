@@ -4,15 +4,15 @@
        {
 			"Experiment": "Implementing 3-8 line Decoder.",     
 			"Lab": "Computer Organization (KCS-352)",               
-			"Discipline": "Computer Science",				 
-			"Technology": "Information Technology"         
+			"Discipline": "Computer Science/Information Technology",				 
+			"Technology": "HTML, CSS and JAVA Script"         
        }
    ],
 
    "developer": [
        {       
       "Developer": "Dr. Avdhesh Gupta",         
-      "Institute": "IMS Engineering College",         
+      "Institute": "IMS Engineering College, Ghaziabad",         
       "InstituteAcronym": "IMSEC"   
        }
    ],
@@ -20,19 +20,19 @@
    "contributer": [
        {       
 			"Contributer": "Abhishray Gangwar",             
-      "Institute": "IMS Enguineering College",               
+      			"Institute": "IMS Enguineering College, Ghaziabad",               
 			"InstituteAcronym": "IMSEC"         
        },
 
        {       
 			"Contributer": "Chandan Kumar Singh",              
-      "Institute": "IMS Engineering College",               
+      			"Institute": "IMS Engineering College, Ghaziabad",               
 			"InstituteAcronym": "IMSEC"         
        },
 
        {       
 			"Contributer": "Devanshi Srivastava",             
-      "Institute": "IMS Engineering College",               
+      			"Institute": "IMS Engineering College, Ghaziabad",               
 			"InstituteAcronym": "IMSEC"         
        }
    ]
